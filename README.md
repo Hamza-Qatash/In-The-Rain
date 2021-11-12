@@ -10,7 +10,7 @@
   <p align="center">
     In The Rain Template full responsive & animated
     <br />
-    <a href="https://hamza-qatash.github.io/In-The-Rain"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Hamza-Qatash/In-The-Rain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://hamza-qatash.github.io/In-The-Rain/">View Demo</a>
@@ -28,4 +28,4 @@ full responsive page with nice animations and hover effects.
 
 Hamza Qatash - qatashh29@gmail.com
 
-Project Link: https://hamza-qatash.github.io/MNTN-template/
+Project Link: https://github.com/Hamza-Qatash/In-The-Rain
